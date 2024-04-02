@@ -11,7 +11,7 @@
 
 ## Format
 
-- Bi-weekly (once very two weeks) online meetings
+- Bi-weekly (once very two weeks) / monthly online meetings (TBD)
 - Typically 45 minutes - 1 hour meeting (possibly on weekends) (TBD)
 - More than one person can pair up to present / discuss the paper
 - Anybody is welcome to attend
