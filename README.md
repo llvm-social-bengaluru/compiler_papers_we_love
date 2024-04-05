@@ -12,7 +12,7 @@
 ## Format
 
 - Bi-weekly (once very two weeks) / monthly online meetings (TBD)
-- Typically 45 minutes - 1 hour meeting (possibly on weekends) (TBD)
+- Typically 45 minutes - 1 hour meeting
 - More than one person can pair up to present / discuss the paper
 - We follow the LLVM Code of Conduct (https://llvm.org/docs/CodeOfConduct.html)
 - We are not planning to record at the moment but notes will be shared
